@@ -12,7 +12,7 @@ Il est possible d’ajouter facilement vos propres thèmes et cartes via l’int
 
 ## 🚀 Fonctionnalités principales
 
-- 📚 Révision de questions par thème (SQL, Python, ML, etc.)
+- 📚 Révision de questions par thème (SQL, Python, ML, etc...)
 - ⚖️ Sélection des cartes pondérée selon les erreurs passées
 - 📈 Statistiques de progression par jour et par thème
 - 🛠️ Interface interactive via **Streamlit**
