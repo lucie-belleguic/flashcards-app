@@ -4,8 +4,8 @@
 
 Bienvenue dans mon projet **Flashcards**, une application interactive de révision conçue pour **préparer les entretiens de Data Scientist, Data Analyst ou Ingénieur IA**.
 
-L'application permet de s'entraîner sur des questions réparties par thème, avec un suivi statistique et une logique de sélection intelligente pour favoriser la mémorisation.
-La base actuelle contient des questions orientées Data/IA, fournies à titre d'exemple, mais l'application peut être utilisée pour tout autre domaine : révision de langues, cours d’histoire, culture générale, etc.
+L'application permet de s'entraîner sur des questions réparties par thème, avec un suivi statistique et une logique de sélection intelligente pour favoriser la mémorisation.   
+La base actuelle contient des questions orientées Data/IA, fournies à titre d'exemple, mais l'application peut être utilisée pour tout autre domaine : révision de langues, cours d’histoire, culture générale, etc.  
 Il est possible d’ajouter facilement vos propres thèmes et cartes via l’interface ou directement en base de données.
 
 ---
